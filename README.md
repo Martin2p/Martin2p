@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am currently developing my programming skills alongside my job. Together with my growing knowledge in networking, this is my path into the world of IT.
+
+At the moment, I am working on a small Python port scanner to compare the efficiency of my code in Python and Java.
+
+
 <!--
 **Martin2p/Martin2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
