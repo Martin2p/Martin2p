@@ -2,7 +2,9 @@
 
 I am currently developing my programming skills alongside my job. Together with my growing knowledge in networking, this is my path into the world of IT.
 
-At the moment, I am working on a small Python port scanner to compare the efficiency of my code in Python and Java.
+Currently I am working on two projects: 
+1. A small Python port scanner to compare the efficiency of my code in Python and Java.
+2. Building my own VPN Server.
 
 
 <!--
