@@ -4,7 +4,7 @@ I am currently developing my programming skills alongside my job. Together with 
 
 Currently I am working on two projects: 
 1. A small Python port scanner to compare the efficiency of my code in Python.
-2. Building my own WEB Server with Nginx.
+2. Building my own Webserver with Nginx.
 
 
 <!--
