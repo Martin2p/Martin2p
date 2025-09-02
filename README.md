@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Pause
+Currently taking a short break to prepare for my CompTIA A+ certification.
+
+-----------
+
 I am currently developing my programming skills alongside my job. Together with my growing knowledge in networking, this is my path into the world of IT.
 
 Currently I am working on two projects: 
