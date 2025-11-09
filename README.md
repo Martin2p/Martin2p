@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Pause
-Currently taking a short break to prepare for my CompTIA A+ certification.
+Currently taking a short break to prepare for my CompTIA Network+ certification.
 
 -----------
 
