@@ -1,13 +1,27 @@
-## Hi there 👋
+## Martin | Network Engineering in Progress
 
-I am currently developing my programming skills alongside my job. Together with my growing knowledge in networking, this is my path into the world of IT.
+I discovered my interest in networking during my formal IT training — when I first moved beyond simply using networks and started understanding how routing, switching, and protocols actually work.
 
-Currently I am working on this project: 
-ECN2026
+Since 2023, I have been pursuing IT in a focused and structured way alongside my full-time job, building practical infrastructure experience through self-driven projects, following earlier hands-on experience with hardware and operating systems at a hobby level.
 
+🔐 ECN2026 – European Connected Network  
+A self-designed multi-country lab connecting Switzerland, Sweden, and Germany via WireGuard, MikroTik routing, VLAN segmentation, firewall hardening, OpenVAS vulnerability scanning, and centralized logging.
 
+🎓 CompTIA A+ certified  
+📘 CompTIA Network+ in progress  
+
+📖 Continuous protocol study through *The TCP/IP Guide* by Charles M. Kozierok — using it as a reference to understand packet structures, frame mechanics, routing logic, and protocol interactions at a deeper level.
+
+I build infrastructure methodically:
+design → implement → test → document → analyze failure cases.
+
+Interested in:  
+Network architecture | Secure connectivity | Infrastructure transparency
+
+Open to junior network engineering or infrastructure roles in CH, SE, or DE.
 
 <!--
+## Hi there 👋
 **Martin2p/Martin2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
