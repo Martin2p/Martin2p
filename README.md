@@ -1,24 +1,51 @@
-## Martin | Network Engineering in Progress
+## Martin | Network Engineering Projects
 
-I discovered my interest in networking during my formal IT training — when I first moved beyond simply using networks and started understanding how routing, switching, and protocols actually work.
+Hi, I'm Martin.
 
-Since 2023, I have been pursuing IT in a focused and structured way alongside my full-time job, building practical infrastructure experience through self-driven projects, following earlier hands-on experience with hardware and operating systems at a hobby level.
+I am building hands-on infrastructure projects
+to transition into a career in network engineering.
 
-🔐 ECN2026 – European Connected Network  
-A self-designed multi-country lab connecting Switzerland, Sweden, and Germany via WireGuard, MikroTik routing, VLAN segmentation, firewall hardening, OpenVAS vulnerability scanning, and centralized logging.
+Main project:
+
+🔐 **ECN2026** – European Connected Network  
+A self-designed multi-country infrastructure lab connecting
+Switzerland, Sweden, and a VPS in Germany.
+
+Focus areas:
+- WireGuard site-to-site VPN
+- MikroTik routing
+- firewall hardening
+- Prometheus/Grafana monitoring
+- vulnerability scanning (OpenVAS)
+
+Technologies:
+- WireGuard
+- MikroTik RouterOS
+- Linux
+- nftables
+- Docker
+- Prometheus
+- Grafana
+
+---
 
 🎓 CompTIA A+ certified  
 📘 CompTIA Network+ in progress  
 
 📖 Continuous protocol study through *The TCP/IP Guide* by Charles M. Kozierok — using it as a reference to understand packet structures, frame mechanics, routing logic, and protocol interactions at a deeper level.
 
-I build infrastructure methodically:
-design → implement → test → document → analyze failure cases.
+I approach infrastructure methodically:
+design → implement → test → document → analyze failure cases
 
 Interested in:  
 Network architecture | Secure connectivity | Infrastructure transparency
 
+GitHub is used as a technical lab notebook documenting
+architecture decisions, configuration examples, and test results.
+
 Open to junior network engineering or infrastructure roles in CH, SE, or DE.
+
+
 
 <!--
 ## Hi there 👋
