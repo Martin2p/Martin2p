@@ -30,7 +30,7 @@ Technologies:
 ---
 
 🎓 CompTIA A+ certified  
-📘 CompTIA Network+ in progress  
+📘 CCNA in progress  
 
 📖 Continuous protocol study through *The TCP/IP Guide* by Charles M. Kozierok — using it as a reference to understand packet structures, frame mechanics, routing logic, and protocol interactions at a deeper level.
 
