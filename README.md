@@ -16,7 +16,8 @@ Focus areas:
 - MikroTik routing
 - firewall hardening
 - Prometheus/Grafana monitoring
-- vulnerability scanning (OpenVAS)
+- vulnerability scanning (OpenVAS/Greenbone)
+- SIEM / Wazuh
 
 Technologies:
 - WireGuard
@@ -29,19 +30,19 @@ Technologies:
 
 ---
 
-🎓 CompTIA A+ certified  
-📘 CCNA in progress  
+Certifications: CompTIA A+ | CCNA (in progress)
 
 📖 Continuous protocol study through *The TCP/IP Guide* by Charles M. Kozierok — using it as a reference to understand packet structures, frame mechanics, routing logic, and protocol interactions at a deeper level.
 
 I approach infrastructure methodically:
 design → implement → test → document → analyze failure cases
 
-Interested in:  
-Network architecture | Secure connectivity | Infrastructure transparency
+Focus: Network architecture | Secure connectivity | Infrastructure transparency
 
 GitHub is used as a technical lab notebook documenting
 architecture decisions, configuration examples, and test results.
+
+Primarily targeting roles in Sweden — also open to CH and DE.
 
 Open to junior network engineering or infrastructure roles in CH, SE, or DE.
 
