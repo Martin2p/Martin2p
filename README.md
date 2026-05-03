@@ -18,6 +18,7 @@ Focus areas:
 - Prometheus/Grafana monitoring
 - vulnerability scanning (OpenVAS/Greenbone)
 - SIEM / Wazuh
+- IPAM (NetBox)
 
 Technologies:
 - WireGuard
@@ -27,7 +28,8 @@ Technologies:
 - Docker
 - Prometheus
 - Grafana
-
+- Netbox
+- 
 ---
 
 Certifications: CompTIA A+ | CCNA (in progress)
