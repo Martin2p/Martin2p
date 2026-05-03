@@ -29,7 +29,7 @@ Technologies:
 - Prometheus
 - Grafana
 - Netbox
-- 
+
 ---
 
 Certifications: CompTIA A+ | CCNA (in progress)
