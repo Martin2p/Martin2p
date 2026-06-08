@@ -44,9 +44,7 @@ Focus: Network architecture | Secure connectivity | Infrastructure transparency
 GitHub is used as a technical lab notebook documenting
 architecture decisions, configuration examples, and test results.
 
-Primarily targeting roles in Sweden — also open to CH and DE.
-
-Open to junior network engineering or infrastructure roles in CH, SE, or DE.
+Open to junior network engineering or infrastructure roles.
 
 
 
