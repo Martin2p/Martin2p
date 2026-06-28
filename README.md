@@ -1,11 +1,19 @@
 ## Martin | Network Engineering Projects
 
-Hi, I'm Martin.
-
+Hi, I'm Martin.  
 I am building hands-on infrastructure projects
 to transition into a career in network engineering.
 
-Main project:
+---
+
+### Current Project
+
+🌐 **DNS Server** – Self-hosted DNS infrastructure on my Contabo VPS  
+Deploying a primary DNS server as the next layer of the ECN2026 network stack.
+
+---
+
+### Completed
 
 🔐 **ECN2026** – European Connected Network  
 A self-designed multi-country infrastructure lab connecting
@@ -20,6 +28,8 @@ Focus areas:
 - SIEM / Wazuh
 - IPAM (NetBox)
 
+---
+
 Technologies:
 - WireGuard
 - MikroTik RouterOS
@@ -28,7 +38,7 @@ Technologies:
 - Docker
 - Prometheus
 - Grafana
-- Netbox
+- NetBox
 
 ---
 
@@ -36,7 +46,7 @@ Certifications: CompTIA A+ | CCNA (in progress)
 
 📖 Continuous protocol study through *The TCP/IP Guide* by Charles M. Kozierok — using it as a reference to understand packet structures, frame mechanics, routing logic, and protocol interactions at a deeper level.
 
-I approach infrastructure methodically:
+I approach infrastructure methodically:  
 design → implement → test → document → analyze failure cases
 
 Focus: Network architecture | Secure connectivity | Infrastructure transparency
@@ -45,21 +55,3 @@ GitHub is used as a technical lab notebook documenting
 architecture decisions, configuration examples, and test results.
 
 Open to junior network engineering or infrastructure roles.
-
-
-
-<!--
-## Hi there 👋
-**Martin2p/Martin2p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
