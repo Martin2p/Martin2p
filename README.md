@@ -6,7 +6,7 @@ to transition into a career in network engineering.
 
 ---
 
-### Current Project
+### Completed
 
 🌐 **DNS Server** – Self-hosted DNS infrastructure on my Contabo VPS  
 Deploying a primary DNS server as the next layer of the ECN2026 network stack.
