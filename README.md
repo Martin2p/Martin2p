@@ -4,6 +4,8 @@ Hi, I'm Martin.
 I am building hands-on infrastructure projects
 to transition into a career in network engineering.
 
+Currently pausing hands-on projects while completing "Grundläggande Svenska som andraspråk (Delkurs 4 av 4)" and "Dator- och kommunikationsteknik, nivå 1" alongside a full-time job.
+
 ---
 
 ### Completed
